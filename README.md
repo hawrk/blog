@@ -1,2 +1,2 @@
 # blog
-useful blog:http://blog.csdn.net/yusiguyuan?viewmode=contents
+方方面面的学习总结
